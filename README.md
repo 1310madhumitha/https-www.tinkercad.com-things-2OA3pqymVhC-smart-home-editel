@@ -1,0 +1,2 @@
+# https-www.tinkercad.com-things-2OA3pqymVhC-smart-home-editel
+The sensors connected to the microcontroller board are  Ultrasonic and temperature sensor.  The Ultrasonic sensor used for automatic open the front door if some someone is in front of the door.  LDR is used for automatic light control in home if someone is in home at night the bulb is automatically turned ON and at day time it automatically turned OFF. Components needed • Arduino • LDR • ULTRASONIC • Dc power source (Any 12v) • dc motor,servo motor and bulb
